@@ -1178,11 +1178,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Home\\Blazor\\Blazor.csproj",
+      "projectUniqueName": "C:\\Home\\Blazor\\Blazor.csproj",
       "projectName": "Blazor",
-      "projectPath": "c:\\Home\\Blazor\\Blazor.csproj",
+      "projectPath": "C:\\Home\\Blazor\\Blazor.csproj",
       "packagesPath": "C:\\Users\\SG0893950\\.nuget\\packages\\",
-      "outputPath": "c:\\Home\\Blazor\\obj\\",
+      "outputPath": "C:\\Home\\Blazor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -1248,7 +1248,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

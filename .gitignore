@@ -1,1 +1,10 @@
 /bin
+/obj/debug
+/obj/*
+/obj/project.assets.json
+/obj/project.assets.json
+/obj/project.assets.json
+/obj/project.assets.json
+/obj/project.assets.json
+/obj/Blazor.csproj.nuget.dgspec.json
+/obj/project.assets.json
